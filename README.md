@@ -1,7 +1,7 @@
 # hello-world
 Hello World github repo test
 
-# my name is Hristo
+# My name is Hristo
 # I study Java, Python and JS, also some HTML and CSS.
 # As github become the de facto stndart for version
 # control, I'm interested in it.
