@@ -15,3 +15,15 @@ software.
 
 Let add some more text...
 Hope all went smooth :)
+
+Some **bold* and *itallic* test.
+
+# Some Headers
+### H3
+#### H4
+##### H5
+
+# Lines
+
+---------
+
