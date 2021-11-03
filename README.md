@@ -3,6 +3,7 @@
 
 My name is Hristo.
 I study Java, Python and JS, also some HTML and CSS.
+
 As github become the de facto standart for version
 control, I'm interested in it.
 
